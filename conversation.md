@@ -1,1 +1,0 @@
-Użytkownik chce mieć możliwość pisania na blogu i dostępu do strony.
